@@ -17,13 +17,13 @@ Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los model
 
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.89-red.svg)
-- Hen Menu http://thewizwikii.github.io/489/menu
+- Hen Menu http://eldrakula.github.io/489/menu
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.90-red.svg)
-- Hen Menu http://thewizwikii.github.io/490/menu
+- Hen Menu http://eldrakula.github.io/490/menu
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.91-brightgreen.svg)
-- Hen Menu http://thewizwikii.github.io/491/menu
+- Hen Menu http://https://eldrakula.github.io.github.io/491/menu
 
 Buscas una guia de configuración definitiva para tu PS3 todo 
 
@@ -35,7 +35,7 @@ https://youtu.be/2eZOVRY5ZMc
 
 Esto habilita que puedas emparejar / conectar dispositivos por Bluetooth y USB como audifonos y Micrófonos
 
-- http://thewizwikii.github.io/BTGA-303-488/
+- http://eldrakula.github.io/BTGA-303-488/
 
 
 ---
