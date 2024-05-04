@@ -8,11 +8,6 @@ Un Host alternativo para poder instalar, probar y ejecutar exploits en el navega
 ---
 
 
-Lo unico que hay que hacer es ir a esta dirección desde el navegador de internet de la cosnola.
-
-- https://thewizwikii.github.io/PS4/9.00/
-
----
 
 # PS3 HEN & CFW Flasher
 
