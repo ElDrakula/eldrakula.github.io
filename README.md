@@ -5,26 +5,12 @@
 
 Un Host alternativo para poder instalar, probar y ejecutar exploits en el navegador de internet de PS3, PS4 y PS5.
 
-
-### PS5 Jailbreak + PSFREE etaHEN 1.7B (3.XX - 4.XX)
-
-- https://thewizwikii.github.io/psfree
-
 ---
 
-### PS4 Jailbreak + Goldhen v3.2.2 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
 
 Lo unico que hay que hacer es ir a esta dirección desde el navegador de internet de la cosnola.
 
 - https://thewizwikii.github.io/PS4/9.00/
-
-### PS4 Jailbreak Menu
-
-- https://thewizwikii.github.io/PS4/9.00/menu
-
-Link para flashear placas ESP32 S2 Mini
-
-- https://thewizwikii.github.io/PS4/webflash/index.html
 
 ---
 
