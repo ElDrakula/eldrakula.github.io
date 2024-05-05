@@ -23,7 +23,7 @@ Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los model
 - Hen Menu http://eldrakula.github.io/490/menu
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.91-brightgreen.svg)
-- Hen Menu http://https://eldrakula.github.io.github.io/491/menu
+- Hen Menu https://eldrakula.github.io/491/menu
 
 Buscas una guia de configuración definitiva para tu PS3 todo 
 
