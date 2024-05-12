@@ -3,28 +3,7 @@
 
 ### ¿Que és esto?
 
-Un Host alternativo para poder instalar, probar y ejecutar exploits en el navegador de internet de PS3, PS4 y PS5.
-
-
-### PS5 Jailbreak + PSFREE etaHEN 1.7B (3.XX - 4.XX)
-
-- https://thewizwikii.github.io/psfree
-
----
-
-### PS4 Jailbreak + Goldhen v3.2.2 ![Version](https://img.shields.io/badge/Version-9.00-brightgreen.svg)
-
-Lo unico que hay que hacer es ir a esta dirección desde el navegador de internet de la cosnola.
-
-- https://thewizwikii.github.io/PS4/9.00/
-
-### PS4 Jailbreak Menu
-
-- https://thewizwikii.github.io/PS4/9.00/menu
-
-Link para flashear placas ESP32 S2 Mini
-
-- https://thewizwikii.github.io/PS4/webflash/index.html
+Un Host alternativo para poder instalar, probar y ejecutar exploits en el navegador de internet de PS3, 
 
 ---
 
@@ -36,13 +15,13 @@ Esta versión de HEN és compatible con todoas las consolas PS3 (Todos los model
 
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.89-red.svg)
-- Hen Menu http://thewizwikii.github.io/489/menu
+- Hen Menu http://eldrakula.github.io/489/menu
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.90-red.svg)
-- Hen Menu http://thewizwikii.github.io/490/menu
+- Hen Menu http://eldrakula.github.io/490/menu
 
 ### PS3 HEN ![Version](https://img.shields.io/badge/Version-4.91-brightgreen.svg)
-- Hen Menu http://thewizwikii.github.io/491/menu
+- Hen Menu http://eldrakula.github.io/491/menu
 
 Buscas una guia de configuración definitiva para tu PS3 todo 
 
@@ -61,6 +40,7 @@ Esto habilita que puedas emparejar / conectar dispositivos por Bluetooth y USB c
 
 ### Credits:
 
+- **#TheWizwikii** (Por su web base)
 - **#Chendochap** (PS4/PS5 JB)
 - **#Specter** (PS4/PS5 JB)
 - **#Znullptr** (PS4/PS5 JB)
